@@ -7,7 +7,7 @@ Area: Desarrollo de Software
 Turno: Matutino
 Docente: José Christian Narváez Figueroa
 Objetivo: Desarrollar Aplicaciones que puedan ser desplegadas en internet
-
+Competencias: Puro relleno como en el shippuden 
 
 
 
