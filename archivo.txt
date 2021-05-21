@@ -1,14 +1,10 @@
 Primer Practica del Git
 Materi: Aplicaciones Web
-Grupo: c
-Grado: 3ro
+Grupo: 3C
 Carrera: Tecnologias de la Informacion
 Area: Desarrollo de Software
 Turno: Matutino
 Docente: José Christian Narváez Figueroa
-
-
-
 
 
 
