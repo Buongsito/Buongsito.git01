@@ -1,0 +1,5 @@
+hola mundo
+primer practica del git
+aplicaciones web
+grupo c
+grado 3ro
